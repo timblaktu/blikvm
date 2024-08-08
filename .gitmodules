@@ -1,12 +1,16 @@
 [submodule "package/blikvm-webclient"]
 	path = package/blikvm-webclient
-	url = https://github.com/ThomasVon2021/blikvm-webclient.git
+	url = https://github.com/timblaktu/blikvm-webclient.git
+	branch = feature/143-tesmart-integration
 [submodule "package/blikvm-webserver"]
 	path = package/blikvm-webserver
-	url = https://github.com/ThomasVon2021/blikvm-webserver.git
+	url = https://github.com/timblaktu/blikvm-webserver.git
+	branch = feature/143-tesmart-integration
 [submodule "web_src/web-client"]
 	path = web_src/web-client
-	url = https://github.com/ThomasVon2021/blikvm-web-client
+	url = https://github.com/timblaktu/blikvm-web-client
+	branch = feature/143-tesmart-integration
 [submodule "web_src/web-server"]
 	path = web_src/web-server
-	url = https://github.com/ThomasVon2021/blikvm-web-server
+	url = https://github.com/timblaktu/blikvm-web-server
+	branch = feature/143-tesmart-integration
